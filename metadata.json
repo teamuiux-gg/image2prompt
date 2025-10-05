@@ -1,0 +1,5 @@
+{
+  "name": "AI Image to Prompt Generator",
+  "description": "An application that uses AI to generate descriptive prompts from one or more uploaded images. Users can choose to receive a single unified prompt or separate prompts for each image.",
+  "requestFramePermissions": []
+}
